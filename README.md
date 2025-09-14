@@ -1,7 +1,16 @@
 # Floating_solar_plant_design
 
-Floating Solar PV System Design & Feasibility Analysis (20.24 MW) 
-• Simulated and optimized a floating solar plant using PVsyst, achieving 1156 kWh/kWp/year yield and 75.42% PR 
-• Conducted detailed cable sizing, loss analysis, and economic modeling, resulting in ₹1.99/kWh LCOE and 9.9-year payback 
-• Used realistic benchmark-based dummy data due to limited access to site measurements
-• Delivered a bankable report integrating technical rigor with financial viability for utility-scale deployment
+Floating Solar PV System Design & Feasibility Analysis For a Location in Bihar, India.
+
+The site chosen for the analysis is near the Indrapuri barrage, Rohtas, Bihar, India.
+
+lattitude of the proposed location- 24.83°
+longitude of the proposed location- 84.13°
+Avg. altitude of the proposed location- 105m
+
+The proposed location is analysed for its plant capacity and future scalability, different design layouts, and the electrical & economical feasibility for the plant.
+
+The design for the plant layout and the shadow analysis is done using the 3D modelling software "Sketchup".
+The performance analysis for its electric and economical feasibility is done using Pvsyst 8.0.15.
+
+The metreological data for the analysis is taken from the Meteonorm 8.2 in the PVsyst.
