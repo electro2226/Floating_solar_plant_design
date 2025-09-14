@@ -13,4 +13,4 @@ The proposed location is analysed for its plant capacity and future scalability,
 The design for the plant layout and the shadow analysis is done using the 3D modelling software "Sketchup".
 The performance analysis for its electric and economical feasibility is done using Pvsyst 8.0.15.
 
-The metreological data for the analysis is taken from the Meteonorm 8.2 in the PVsyst.
+The meteorological data for the analysis is taken from the Meteonorm 8.2 in the PVsyst.
