@@ -1,4 +1,4 @@
-# Floating_solar_plant_design
+# Floating_solar_plant_design_and_analysis
 
 Floating Solar PV System Design & Feasibility Analysis For a Location in Bihar, India.
 
