@@ -17,10 +17,10 @@ The study outlines multiple FSPV variants based on their design layouts and orie
 
 <p float="left">
   <img src="images/indrapuri_barrage.png" width="45%" />
-  <img src="images/image2.png" width="45%" />
+  <img src="images/google_earth_image.png" width="45%" />
 </p>
 
-*Figure1: Indrapuri_barrage, Rohtas, Bihar, India.*
+*Figure1: Indrapuri_barrage, Rohtas, Bihar, India.**Figure2: Google_earth_view.*
 
 ## Proposed-site
 
