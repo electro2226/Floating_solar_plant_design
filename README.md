@@ -1,4 +1,4 @@
-# Floating_solar_plant_design_and_analysis
+# Design_and_analysis_of_ 20/22.5 MWp_Floating_solar_plant_in_bihar_India
 
 ## 📚 Table of Contents
 1. [Project Overview](#Project-overview)
