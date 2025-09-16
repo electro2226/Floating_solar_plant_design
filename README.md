@@ -22,10 +22,8 @@ lattitude of the proposed location- 24.83°
 longitude of the proposed location- 84.13°  
 Avg. altitude of the proposed location- 105m  
 
+The proposed location is analysed for different variants, its plant capacity and future scalability, and the electrical & performance feasibility for the plant.
 
-
-
-The proposed location is analysed for its plant capacity and future scalability, different design layouts, and the electrical & performance feasibility for the plant.
 
 The design for the plant layout and the shadow analysis is done using the 3D modelling software "Sketchup".
 The performance analysis for its electric and economical feasibility is done using Pvsyst 8.0.15.
