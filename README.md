@@ -24,7 +24,7 @@ Avg. altitude of the proposed location- 105m
 
 Also, the key hydrological data for the proposed barrage site, including average water depth, seasonal river height variations, and peak flood levels is shown in the following figure. These parameters are essential for designing a stable and resilient floating solar platform.
 
-![Floating Layout](images/indrapuri_barrage.png)
+![Realtime_view](images/indrapuri_barrage.png)
 
 
 The design for the plant layout and the shadow analysis is done using the 3D modelling software "Sketchup".
