@@ -17,8 +17,8 @@ The study outlines multiple FSPV variants based on their design layouts and orie
 
 <table>
 <tr>
-  <td> align="center"<img src="images/indrapuri_barrage.png" height="300"/></td>
-  <td> align="center"<img src="images/google_earth_image.png" height="300"/></td>
+  <td align="center"<img src="images/indrapuri_barrage.png" height="300"/></td>
+  <td align="center"<img src="images/google_earth_image.png" height="300"/></td>
 </tr>
 <tr>
   <td align="center"><em>Figure 1: Indrapuri Barrage, Rohtas, Bihar</em></td>
