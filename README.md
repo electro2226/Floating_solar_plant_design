@@ -1,4 +1,4 @@
-# Design_and_analysis_of_Floating_solar_plant
+# Design and Performance analysis of Floating solar plant.
 
 ## 📚 Table of Contents
 1. [Project Overview](#Project-overview)
