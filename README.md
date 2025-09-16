@@ -17,12 +17,14 @@ The study outlines multiple FSPV variants based on their design layouts and orie
 
 ## Proposed-site
 
-The site chosen for the analysis is near the Indrapuri barrage, Rohtas, Bihar, India. It is located over the Sone river. The geographical location of the project is:  
+The site chosen for the analysis is near the Indrapuri barrage, Rohtas, Bihar, India. It is located over the Sone river.The proposed location is analysed for different variants, its plant capacity and future scalability, and the electrical & performance feasibility for the plant. The geographical location of the project is as follows:  
 lattitude of the proposed location- 24.83°  
 longitude of the proposed location- 84.13°  
-Avg. altitude of the proposed location- 105m  
+Avg. altitude of the proposed location- 105m
 
-The proposed location is analysed for different variants, its plant capacity and future scalability, and the electrical & performance feasibility for the plant.
+Also, the key hydrological data for the proposed barrage site, including average water depth, seasonal river height variations, and peak flood levels is shown in the following figure. These parameters are essential for designing a stable and resilient floating solar platform.
+
+![Floating Layout](images/)
 
 
 The design for the plant layout and the shadow analysis is done using the 3D modelling software "Sketchup".
