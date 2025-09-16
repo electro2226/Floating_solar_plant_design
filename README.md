@@ -3,7 +3,7 @@
 ## 📚 Table of Contents
 1. [Project Overview](#Project-overview)
 2. [Proposed Site](#Proposed-site)
-3. [Design Methodology](#design-methodology)
+3. [Design Methodology](#Design-methodology)
 4. [Tools & Technologies](#tools--technologies)
 5. [Environmental Impact](#environmental-impact)
 7. [Data & Files](#data--files)
@@ -17,6 +17,7 @@ The study outlines multiple FSPV variants based on their design layouts and orie
 
 ![Realtime_view](images/indrapuri_barrage.png)
 *Figure1: Indrapuri_barrage, Rohtas, Bihar, India.*
+
 ## Proposed-site
 
 The site chosen for the analysis is near the Indrapuri barrage, Rohtas, Bihar, India. It is located over the Sone river.The proposed location is analysed for different variants, its plant capacity and future scalability, and the electrical & performance feasibility for the plant. The geographical location of the project is as follows:  
@@ -29,8 +30,12 @@ Also, the key hydrological data for the proposed barrage site, including average
 ![Realtime_view](images/Sone_barrage_specs.png)
 *Figure2: Sone_barrage_key_specifications.*
 
+## Design-methodology 
 
-The design for the plant layout and the shadow analysis is done using the 3D modelling software "Sketchup".
-The performance analysis for its electric and economical feasibility is done using Pvsyst 8.0.15.
+The floating solar plant design was developed based on site-specific hydrological data, seasonal water level variations, platform stability requirements, and optimal energy yield considerations.  
+The methodology involved selecting suitable PV modules and inverters, and evaluating multiple variants based on their design layouts and orientations.
 
-The meteorological data for the analysis is taken from the Meteonorm 8.2 in the PVsyst.
+For our project, the design for the different plant layouts and the shadow analysis is done using the 3D modelling software "Sketchup" and the performance analysis for its electric and performance feasibility is done using Pvsyst 8.0.15.
+The PVsyst software uses the meteorological data provided by meteonorm 8.2 for the site specific analysis.
+
+
