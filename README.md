@@ -14,17 +14,18 @@ With the rising demand for clean energy and increasing pressure on land resource
 This project explores the design and analysis of a 20/22.5 MWp floating solar plant proposed for deployment on Indrapuri barrage in Rohtas, Bihar, India. Unlike traditional ground-mounted systems, FSPV installations offer distinct advantages: they eliminate land acquisition challenges, reduce evaporation losses from water surfaces, and benefit from enhanced energy yield due to reduced ambient temperatures and minimal shading.
 
 The study outlines multiple FSPV variants based on their design layouts and orientations tailored to the proposed site conditions. It evaluates the electrical performance,  and environmental impact of the floating system. The design methodology incorporates site-specific constraints, platform stability, and optimal tilt angles to ensure reliable and efficient energy generation.
-
-<table>
-<tr>
-  <td><img src="images/indrapuri_barrage.png" height="300"/></td>
-  <td><img src="images/google_earth_image.png" height="300"/></td>
-</tr>
-<tr>
-  <td align="center"><em>Figure 1: Indrapuri Barrage, Rohtas, Bihar</em></td>
-  <td align="center"><em>Figure 2: Google Earth View of the Site</em></td>
-</tr>
-</table>
+<div align="center">
+  <table>
+  <tr>
+    <td><img src="images/indrapuri_barrage.png" height="300"/></td>
+    <td><img src="images/google_earth_image.png" height="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Figure 1: Indrapuri Barrage, Rohtas, Bihar</em></td>
+    <td align="center"><em>Figure 2: Google Earth View of the Site</em></td>
+  </tr>
+  </table>
+</div>  
 
 ## Proposed-site
 
