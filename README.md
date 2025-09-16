@@ -15,10 +15,11 @@ This project explores the design and analysis of a 20/22.5 MWp floating solar pl
 
 The study outlines multiple FSPV variants based on their design layouts and orientations tailored to the proposed site conditions. It evaluates the electrical performance,  and environmental impact of the floating system. The design methodology incorporates site-specific constraints, platform stability, and optimal tilt angles to ensure reliable and efficient energy generation.
 
-<p float="left">
-  <img src="images/indrapuri_barrage.png" width="45%" />
-  <img src="images/google_earth_image.png" width="45%" />
+<p align="center">
+  <img src="images/indrapuri_photo.png" alt="Indrapuri Barrage Photo" height="300"/>
+  <img src="images/google_earth_image.png" alt="Indrapuri Satellite View" height="300"/>
 </p>
+
 
 *Figure1: Indrapuri_barrage, Rohtas, Bihar, India.**Figure2: Google_earth_view.*
 
