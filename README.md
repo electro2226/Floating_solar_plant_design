@@ -35,7 +35,10 @@ Avg. altitude of the proposed location- 105m
 
 Also, the key hydrological data for the proposed barrage site, including average water depth, seasonal river height variations, and peak flood levels is shown in the following figure. These parameters are essential for designing a stable and resilient floating solar platform.
 
-![Realtime_view](images/Sone_barrage_specs.png)
+<p float="center">
+ <td><img src="Sone_barrage_specs.png" height="300"/></td>
+</p>
+
 *Figure2: Sone_barrage_key_specifications.*
 
 ## Design-methodology 
