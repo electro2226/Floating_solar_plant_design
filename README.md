@@ -45,6 +45,11 @@ Also, the key hydrological data for the proposed barrage site, including average
 
 The floating solar plant design was developed based on site-specific hydrological data, seasonal water level variations, platform stability requirements, and optimal energy yield considerations. The methodology involved selecting suitable PV modules and inverters, and evaluating multiple variants based on their design layouts and orientations.
 
-For our project, the design for the different plant layouts and the shadow analysis is done using the 3D modelling software "Sketchup" and the performance analysis for its electric and performance feasibility is done using Pvsyst 8.0.15. The PVsyst software uses the meteorological data provided by meteonorm 8.2 for the site specific analysis and to produce tthe performance report.
+For our project, the design for the different plant layouts and the shadow analysis is done using the 3D modelling software "Sketchup" and the performance analysis for its electric and performance feasibility is done using Pvsyst 8.0.15. The PVsyst software uses the meteorological data provided below by meteonorm 8.2 for the site specific analysis and to produce tthe performance report.
+
+<p align="center">
+  <img src="images/meteo_data.png" alt="meteorological data" height="300"/>
+</p>
+<p align="center"><em>Figure 3: Meteorological data of the site.</em></p>
 
 
