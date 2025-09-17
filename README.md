@@ -83,7 +83,7 @@ The different variants of the floating solar plants are realised based on their 
 ## Different-variants
 For the project, we have chosen five different variants of FSPV each with some different array layouts, orientations and power capacity output. Let's uncover it one by one:
 
-## FSPV Variant 1 (VC0) Specifications
+## FSPV-Variant-1-(VC0)-Specifications
 
 ###  Module Specifications
 
@@ -122,7 +122,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Panel Ratio     | 1.012                           |
 | Orientation     | Fixed Tilt: 5° / Azimuth: 132.5° |
 
-##  FSPV Variant 2 (VC1) Specifications
+##  FSPV-Variant-2-(VC1)-Specifications
 
 ###  Module Specifications
 
@@ -163,7 +163,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.012                                     |
 | Orientation     | Tilt: 22° / Azimuth: 0°                   |
 
-##  FSPV Variant 3 (VC2) Specifications
+##  FSPV-Variant-3-(VC2)-Specifications
 
 ###  Module Specifications
 
@@ -204,7 +204,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | ~1.009                                    |
 | Orientation     | Tilt: 11° / Azimuth: 0°                   |
 
-##  FSPV Variant 4 (VC3) Specifications
+##  FSPV-Variant-4-(VC3)-Specifications
 
 ###  Module Specifications
 
@@ -245,7 +245,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.1                                       |
 | Orientation     | Tilt: 15° / Azimuth: 0°                   |
 
-##  FSPV Variant 5 (VC4) Specifications
+##  FSPV-Variant-5-(VC4)-Specifications
 
 ###  Module Specifications
 
