@@ -78,7 +78,7 @@ The different variants of the floating solar plants are realised based on their 
 ## Different-variants
 For the project, we have chosen five different variants of FSPV each with some different array layouts, orientations and power capacity output. Let's uncover it one by one:
 
-## 🔧 FSPV Variant 1 Specifications
+## 🔧 FSPV Variant 1 (VC0) Specifications
 
 ### 📦 Module Specifications
 
@@ -89,7 +89,8 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Maximum Power Current (Imp) | 12.89 A                              |
 | Open Circuit Voltage (Voc)  | 49.90 V                              |
 | Short Circuit Current (Isc) | 13.72 A                              |
-| Module Efficiency         | 21.3%                                  |
+| Temp. Coefficient of Isc  | +0.048%/°C                             |
+| Temp. Coefficient of Voc  | -0.270%/°C                             |
 | Temp. Coefficient of Pmax | -0.350%/°C                             |
 
 ### ⚙️ Inverter Specifications
@@ -116,4 +117,167 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Panel Ratio     | 1.012                           |
 | Orientation     | Fixed Tilt: 5° / Azimuth: 132.5° |
 
+## 🔧 FSPV Variant 2 (VC1) Specifications
+
+### 📦 Module Specifications
+
+| Parameter                  | Value                                  |
+|---------------------------|----------------------------------------|
+| Module                    | Loom 550 Wp, Mono-Si, PERC, Half-cut   |
+| Maximum Power Voltage (Vmp) | 42.74 V                              |
+| Maximum Power Current (Imp) | 12.89 A                              |
+| Open Circuit Voltage (Voc)  | 49.90 V                              |
+| Short Circuit Current (Isc) | 13.72 A                              |
+| Temp. Coefficient of Isc  | +0.048%/°C                             |
+| Temp. Coefficient of Voc  | -0.270%/°C                             |
+| Temp. Coefficient of Pmax | -0.350%/°C                             |
+
+### ⚙️ Inverter Specifications
+
+| Parameter                  | Value                  |
+|---------------------------|------------------------|
+| Inverter                  | Sungrow SG2500-HV20    |
+| AC Output Nominal Power   | 2500 kVA               |
+| AC Output Voltage         | 550 V (+10% tolerance) |
+| Nominal Frequency         | 50/60 Hz (±10%)        |
+| Min. Startup Voltage      | 840 V                  |
+| Max. DC Voltage           | 1500 V                 |
+| MPPT Voltage Range        | 800 – 1300 V           |
+| Max. DC Current           | 3508 A                 |
+| Max. Short-Circuit Current| 4800 A                 |
+| Max. Output Current       | 2886 A                 |
+| Efficiency (EU/CEC)       | 98.7%                  |
+| Peak Efficiency           | 99.0%                  |
+
+### 🧭 System Layout
+
+| Parameter       | Value                                      |
+|----------------|--------------------------------------------|
+| System Layout   | 2.5 MW array × 8                          |
+| Array Layout    | 23 groups of 8 strings × 25 modules (2.53 MW) |
+| Pnom Ratio      | 1.012                                     |
+| Orientation     | Tilt: 22° / Azimuth: 0°                   |
+
+## 🔧 FSPV Variant 3 (VC2) Specifications
+
+### 📦 Module Specifications
+
+| Parameter                  | Value                                  |
+|---------------------------|----------------------------------------|
+| Module                    | Loom 550 Wp, Mono-Si, PERC, Half-cut   |
+| Maximum Power Voltage (Vmp) | 42.74 V                              |
+| Maximum Power Current (Imp) | 12.89 A                              |
+| Open Circuit Voltage (Voc)  | 49.90 V                              |
+| Short Circuit Current (Isc) | 13.72 A                              |
+| Temp. Coefficient of Isc  | +0.048%/°C                             |
+| Temp. Coefficient of Voc  | -0.270%/°C                             |
+| Temp. Coefficient of Pmax | -0.350%/°C                             |
+
+### ⚙️ Inverter Specifications
+
+| Parameter                  | Value                  |
+|---------------------------|------------------------|
+| Inverter                  | Siemens 1090 kW        |
+| DC Input Nominal Power    | 1108 kW                |
+| AC Output Nominal Power   | PV1090 kVA             |
+| AC Output Voltage         | 600 V (+10% tolerance) |
+| Nominal Frequency         | 50/60 Hz (±10%)        |
+| Max. DC Voltage           | 1500 V                 |
+| MPPT Voltage Range        | 875 – 962 V            |
+| Max. DC Current           | 1200 A                 |
+| Max. Short-Circuit Current| 6.4 – 7 kA             |
+| Max. Output Current       | 1050 A                 |
+| Efficiency (EU/CEC)       | 98.8%                  |
+| Peak Efficiency           | 99.0%                  |
+
+### 🧭 System Layout
+
+| Parameter       | Value                                      |
+|----------------|--------------------------------------------|
+| System Layout   | 1.1 MW array × 20                         |
+| Array Layout    | 10 groups of 8 strings × 25 modules (1.1 MW) |
+| Pnom Ratio      | ~1.009                                    |
+| Orientation     | Tilt: 11° / Azimuth: 0°                   |
+
+## 🔧 FSPV Variant 4 (VC3) Specifications
+
+### 📦 Module Specifications
+
+| Parameter                  | Value                                  |
+|---------------------------|----------------------------------------|
+| Module                    | Loom 550 Wp, Mono-Si, PERC, Half-cut   |
+| Maximum Power Voltage (Vmp) | 42.74 V                              |
+| Maximum Power Current (Imp) | 12.89 A                              |
+| Open Circuit Voltage (Voc)  | 49.90 V                              |
+| Short Circuit Current (Isc) | 13.72 A                              |
+| Temp. Coefficient of Isc  | +0.048%/°C                             |
+| Temp. Coefficient of Voc  | -0.270%/°C                             |
+| Temp. Coefficient of Pmax | -0.350%/°C                             |
+
+### ⚙️ Inverter Specifications
+
+| Parameter                  | Value                  |
+|---------------------------|------------------------|
+| Inverter                  | Siemens 1000 kW        |
+| DC Input Nominal Power    | 1016 kW                |
+| AC Output Nominal Power   | PV1000 kVA             |
+| AC Output Voltage         | 550 V (+10% tolerance) |
+| Nominal Frequency         | 50/60 Hz (±10%)        |
+| Max. DC Voltage           | 1500 V                 |
+| MPPT Voltage Range        | 802 – 882 V            |
+| Max. DC Current           | 1200 A                 |
+| Max. Short-Circuit Current| 6.4 – 7 kA             |
+| Max. Output Current       | 1050 A                 |
+| Efficiency (EU/CEC)       | 98.8%                  |
+| Peak Efficiency           | 99.0%                  |
+
+### 🧭 System Layout
+
+| Parameter       | Value                                      |
+|----------------|--------------------------------------------|
+| System Layout   | 1.1 MW array × 20                         |
+| Array Layout    | 10 groups of 8 strings × 25 modules (1.1 MW) |
+| Pnom Ratio      | 1.1                                       |
+| Orientation     | Tilt: 15° / Azimuth: 0°                   |
+
+## 🔧 FSPV Variant 5 (VC4) Specifications
+
+### 📦 Module Specifications
+
+| Parameter                  | Value                                  |
+|---------------------------|----------------------------------------|
+| Module                    | Loom 550 Wp, Mono-Si, PERC, Half-cut   |
+| Maximum Power Voltage (Vmp) | 42.74 V                              |
+| Maximum Power Current (Imp) | 12.89 A                              |
+| Open Circuit Voltage (Voc)  | 49.90 V                              |
+| Short Circuit Current (Isc) | 13.72 A                              |
+| Temp. Coefficient of Isc  | +0.048%/°C                             |
+| Temp. Coefficient of Voc  | -0.270%/°C                             |
+| Temp. Coefficient of Pmax | -0.350%/°C                             |
+
+### ⚙️ Inverter Specifications
+
+| Parameter                  | Value                  |
+|---------------------------|------------------------|
+| Inverter                  | Sungrow SG2500-HV20    |
+| AC Output Nominal Power   | 2500 kVA               |
+| AC Output Voltage         | 550 V (+10% tolerance) |
+| Nominal Frequency         | 50/60 Hz (±10%)        |
+| Min. Startup Voltage      | 840 V                  |
+| Max. DC Voltage           | 1500 V                 |
+| MPPT Voltage Range        | 800 – 1300 V           |
+| Max. DC Current           | 3508 A                 |
+| Max. Short-Circuit Current| 4800 A                 |
+| Max. Output Current       | 2886 A                 |
+| Efficiency (EU/CEC)       | 98.7%                  |
+| Peak Efficiency           | 99.0%                  |
+
+### 🧭 System Layout
+
+| Parameter       | Value                                      |
+|----------------|--------------------------------------------|
+| System Layout   | 2.5 MW array × 9                         |
+| Array Layout    | 23 groups of 8 strings × 25 modules (2.53 MW) |
+| Pnom Ratio      | 1.012                                     |
+| Orientation     | Tilt: 11° / Azimuth: 0°                   |
 
