@@ -4,7 +4,7 @@
 1. [Project Overview](#Project-overview)
 2. [Proposed Site](#Proposed-site)
 3. [Design Methodology](#Design-methodology)
-4. [Tools & Technologies](#tools--technologies)
+4. [Different variants](#Different-variants)
 5. [Environmental Impact](#environmental-impact)
 7. [Data & Files](#data--files)
 
@@ -74,5 +74,45 @@ The different variants of the floating solar plants are realised based on their 
   </tr>    
   </table>
 </div> 
+
+## Different-variants
+For the project, we have chosen five different variants of FSPV each with some different array layouts, orientations and power capacity output. Let's uncover it one by one:
+
+## 🔧 FSPV Variant 1 Specifications
+
+### 📦 Module Specifications
+
+| Parameter                  | Value                                  |
+|---------------------------|----------------------------------------|
+| Module                    | Longi 550 Wp, Mono-Si, PERC, Half-cut  |
+| Maximum Power Voltage (Vmp) | 41.29 V                              |
+| Maximum Power Current (Imp) | 13.32 A                              |
+| Open Circuit Voltage (Voc)  | 49.52 V                              |
+| Short Circuit Current (Isc) | 14.09 A                              |
+| Module Efficiency         | 21.3%                                  |
+| Temp. Coefficient of Pmax | -0.350%/°C                             |
+
+### ⚙️ Inverter Specifications
+
+| Parameter                  | Value                  |
+|---------------------------|------------------------|
+| Inverter                  | Sungrow SG250HX-HV20   |
+| AC Output Nominal Power   | 2500 kVA               |
+| AC Output Voltage         | 800 V                  |
+| Max. DC Input Voltage     | 1500 V                 |
+| MPPT Voltage Range        | 800 – 1300 V           |
+| Max. Input Current        | 800 A                  |
+| Number of MPPTs           | 12                     |
+| Efficiency (EU/CEC)       | 98.6%                  |
+| Peak Efficiency           | 99%                    |
+
+### 🧭 System Layout
+
+| Parameter       | Value                          |
+|----------------|--------------------------------|
+| System Layout   | 2.5 MW array at 3%             |
+| Array Layout    | 148 Strings in series (2.553 MWp) |
+| Panel Ratio     | 1.02                           |
+| Orientation     | Fixed Tilt: 5° / Azimuth: 132.5° |
 
 
