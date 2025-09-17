@@ -4,8 +4,13 @@
 1. [Project Overview](#Project-overview)
 2. [Proposed Site](#Proposed-site)
 3. [Design Methodology](#Design-methodology)
-4. [Different variants](#Different-variants)
-5. [Environmental Impact](#environmental-impact)
+   -[Variant 1](#FSPV-Variant-1-(VC0)-Specifications)
+   -[Variant 2](#FSPV-Variant-2-(VC1)-Specifications)
+   -[Variant 3](#FSPV-Variant-3-(VC2)-Specifications)
+   -[Variant 4](#FSPV-Variant-4-(VC3)-Specifications)
+   -[Variant 5](#FSPV-Variant-5-(VC4)-Specifications)
+5. [Different variants](#Different-variants)
+6. [Environmental Impact](#environmental-impact)
 7. [Data & Files](#data--files)
 
 ## Project-overview
@@ -78,9 +83,9 @@ The different variants of the floating solar plants are realised based on their 
 ## Different-variants
 For the project, we have chosen five different variants of FSPV each with some different array layouts, orientations and power capacity output. Let's uncover it one by one:
 
-## 🔧 FSPV Variant 1 (VC0) Specifications
+## FSPV Variant 1 (VC0) Specifications
 
-### 📦 Module Specifications
+###  Module Specifications
 
 | Parameter                  | Value                                  |
 |---------------------------|----------------------------------------|
@@ -93,7 +98,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Temp. Coefficient of Voc  | -0.270%/°C                             |
 | Temp. Coefficient of Pmax | -0.350%/°C                             |
 
-### ⚙️ Inverter Specifications
+###  Inverter Specifications
 
 | Parameter                  | Value                  |
 |---------------------------|------------------------|
@@ -108,7 +113,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Efficiency (EU/CEC)       | 98.7%                  |
 | Peak Efficiency           | 99%                    |
 
-### 🧭 System Layout
+###  System Layout
 
 | Parameter       | Value                          |
 |----------------|--------------------------------|
@@ -117,9 +122,9 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Panel Ratio     | 1.012                           |
 | Orientation     | Fixed Tilt: 5° / Azimuth: 132.5° |
 
-## 🔧 FSPV Variant 2 (VC1) Specifications
+##  FSPV Variant 2 (VC1) Specifications
 
-### 📦 Module Specifications
+###  Module Specifications
 
 | Parameter                  | Value                                  |
 |---------------------------|----------------------------------------|
@@ -132,7 +137,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Temp. Coefficient of Voc  | -0.270%/°C                             |
 | Temp. Coefficient of Pmax | -0.350%/°C                             |
 
-### ⚙️ Inverter Specifications
+###  Inverter Specifications
 
 | Parameter                  | Value                  |
 |---------------------------|------------------------|
@@ -149,7 +154,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Efficiency (EU/CEC)       | 98.7%                  |
 | Peak Efficiency           | 99.0%                  |
 
-### 🧭 System Layout
+###  System Layout
 
 | Parameter       | Value                                      |
 |----------------|--------------------------------------------|
@@ -158,9 +163,9 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.012                                     |
 | Orientation     | Tilt: 22° / Azimuth: 0°                   |
 
-## 🔧 FSPV Variant 3 (VC2) Specifications
+##  FSPV Variant 3 (VC2) Specifications
 
-### 📦 Module Specifications
+###  Module Specifications
 
 | Parameter                  | Value                                  |
 |---------------------------|----------------------------------------|
@@ -173,7 +178,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Temp. Coefficient of Voc  | -0.270%/°C                             |
 | Temp. Coefficient of Pmax | -0.350%/°C                             |
 
-### ⚙️ Inverter Specifications
+###  Inverter Specifications
 
 | Parameter                  | Value                  |
 |---------------------------|------------------------|
@@ -190,7 +195,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Efficiency (EU/CEC)       | 98.8%                  |
 | Peak Efficiency           | 99.0%                  |
 
-### 🧭 System Layout
+###  System Layout
 
 | Parameter       | Value                                      |
 |----------------|--------------------------------------------|
@@ -199,9 +204,9 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | ~1.009                                    |
 | Orientation     | Tilt: 11° / Azimuth: 0°                   |
 
-## 🔧 FSPV Variant 4 (VC3) Specifications
+##  FSPV Variant 4 (VC3) Specifications
 
-### 📦 Module Specifications
+###  Module Specifications
 
 | Parameter                  | Value                                  |
 |---------------------------|----------------------------------------|
@@ -214,7 +219,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Temp. Coefficient of Voc  | -0.270%/°C                             |
 | Temp. Coefficient of Pmax | -0.350%/°C                             |
 
-### ⚙️ Inverter Specifications
+###  Inverter Specifications
 
 | Parameter                  | Value                  |
 |---------------------------|------------------------|
@@ -231,7 +236,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Efficiency (EU/CEC)       | 98.8%                  |
 | Peak Efficiency           | 99.0%                  |
 
-### 🧭 System Layout
+###  System Layout
 
 | Parameter       | Value                                      |
 |----------------|--------------------------------------------|
@@ -240,9 +245,9 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.1                                       |
 | Orientation     | Tilt: 15° / Azimuth: 0°                   |
 
-## 🔧 FSPV Variant 5 (VC4) Specifications
+##  FSPV Variant 5 (VC4) Specifications
 
-### 📦 Module Specifications
+###  Module Specifications
 
 | Parameter                  | Value                                  |
 |---------------------------|----------------------------------------|
@@ -255,7 +260,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Temp. Coefficient of Voc  | -0.270%/°C                             |
 | Temp. Coefficient of Pmax | -0.350%/°C                             |
 
-### ⚙️ Inverter Specifications
+###  Inverter Specifications
 
 | Parameter                  | Value                  |
 |---------------------------|------------------------|
@@ -272,7 +277,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Efficiency (EU/CEC)       | 98.7%                  |
 | Peak Efficiency           | 99.0%                  |
 
-### 🧭 System Layout
+###  System Layout
 
 | Parameter       | Value                                      |
 |----------------|--------------------------------------------|
