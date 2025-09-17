@@ -111,7 +111,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 
 | Parameter       | Value                          |
 |----------------|--------------------------------|
-| System Layout   | 2.5 MW array at 3%             |
+| System Layout   | 8 arrays of 2.5 MW each             |
 | Array Layout    | 184 Strings with 25 Modules each (2.553 MWp) |
 | Panel Ratio     | 1.012                           |
 | Orientation     | Fixed Tilt: 5° / Azimuth: 132.5° |
