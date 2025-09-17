@@ -47,12 +47,18 @@ The floating solar plant design was developed based on site-specific hydrologica
 
 For our project, the design for the different plant layouts and the shadow analysis is done using the 3D modelling software "Sketchup" and the performance analysis for its electric and performance feasibility is done using Pvsyst 8.0.15. The PVsyst software uses the meteorological data provided below by meteonorm 8.2 for the site specific analysis and to produce tthe performance report.
 
-<p align="center">
-  <img src="images/Sun_path.png" alt="Sun path for the site" height="300"/>
-  <img src="images/meteo_data.png" alt="meteorological data" height="300"/>
-</p>
-<p align="center"><em>Figure 4: Sun path of the site.</em></p>
-<p align="center"><em>Figure 5: Meteorological data of the site.</em></p>
+<div align="center">
+  <table>
+  <tr>
+    <td><img src="images/metoe_data.png" height="300"/></td>
+    <td><img src="images/sun_path.png" height="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Figure 4: Meteorological data of the site </em></td>
+    <td align="center"><em>Figure 2: Sun path of the Site</em></td>
+  </tr>
+  </table>
+</div> 
 
 
 
