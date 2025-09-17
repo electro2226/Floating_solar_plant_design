@@ -5,14 +5,14 @@
 1. [Project Overview](#project-overview)  
 2. [Proposed Site](#proposed-site)  
 3. [Design Methodology](#design-methodology)  
+4. [Different Variants](#different-variants)
    - [FSPV Variant 1 (VC0)](#fspv-variant-1-vc0-specifications)  
    - [FSPV Variant 2 (VC1)](#fspv-variant-2-vc1-specifications)  
    - [FSPV Variant 3 (VC2)](#fspv-variant-3-vc2-specifications)  
    - [FSPV Variant 4 (VC3)](#fspv-variant-4-vc3-specifications)  
-   - [FSPV Variant 5 (VC4)](#fspv-variant-5-vc4-specifications)  
-4. [Different Variants](#different-variants)  
-5. [Environmental Impact](#environmental-impact)  
-6. [Data and Files](#data-and-files)
+   - [FSPV Variant 5 (VC4)](#fspv-variant-5-vc4-specifications)    
+6. [Environmental Impact](#environmental-impact)  
+7. [Data and Files](#data-and-files)
 
 
 ## Project-overview
