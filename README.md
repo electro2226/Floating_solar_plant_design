@@ -84,11 +84,11 @@ For the project, we have chosen five different variants of FSPV each with some d
 
 | Parameter                  | Value                                  |
 |---------------------------|----------------------------------------|
-| Module                    | Longi 550 Wp, Mono-Si, PERC, Half-cut  |
-| Maximum Power Voltage (Vmp) | 41.29 V                              |
-| Maximum Power Current (Imp) | 13.32 A                              |
-| Open Circuit Voltage (Voc)  | 49.52 V                              |
-| Short Circuit Current (Isc) | 14.09 A                              |
+| Module                    | Loom 550 Wp, Mono-Si, PERC, Half-cut  |
+| Maximum Power Voltage (Vmp) | 42.74 V                              |
+| Maximum Power Current (Imp) | 12.89 A                              |
+| Open Circuit Voltage (Voc)  | 49.90 V                              |
+| Short Circuit Current (Isc) | 13.72 A                              |
 | Module Efficiency         | 21.3%                                  |
 | Temp. Coefficient of Pmax | -0.350%/°C                             |
 
@@ -98,12 +98,13 @@ For the project, we have chosen five different variants of FSPV each with some d
 |---------------------------|------------------------|
 | Inverter                  | Sungrow SG250HX-HV20   |
 | AC Output Nominal Power   | 2500 kVA               |
-| AC Output Voltage         | 800 V                  |
+| AC Output Voltage         | 550 V                  |
 | Max. DC Input Voltage     | 1500 V                 |
 | MPPT Voltage Range        | 800 – 1300 V           |
-| Max. Input Current        | 800 A                  |
-| Number of MPPTs           | 12                     |
-| Efficiency (EU/CEC)       | 98.6%                  |
+| Max. DC Current           | 3508 A                 |
+| Max. Short-circuit Current| 4800 A                 |
+| Max. output  Current      | 2886 A                 |
+| Efficiency (EU/CEC)       | 98.7%                  |
 | Peak Efficiency           | 99%                    |
 
 ### 🧭 System Layout
@@ -111,8 +112,8 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Parameter       | Value                          |
 |----------------|--------------------------------|
 | System Layout   | 2.5 MW array at 3%             |
-| Array Layout    | 148 Strings in series (2.553 MWp) |
-| Panel Ratio     | 1.02                           |
+| Array Layout    | 184 Strings with 25 Modules each (2.553 MWp) |
+| Panel Ratio     | 1.012                           |
 | Orientation     | Fixed Tilt: 5° / Azimuth: 132.5° |
 
 
