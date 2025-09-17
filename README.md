@@ -10,9 +10,15 @@
    - [FSPV Variant 2 (VC1)](#fspv-variant-2-vc1-specifications)  
    - [FSPV Variant 3 (VC2)](#fspv-variant-3-vc2-specifications)  
    - [FSPV Variant 4 (VC3)](#fspv-variant-4-vc3-specifications)  
-   - [FSPV Variant 5 (VC4)](#fspv-variant-5-vc4-specifications)    
-6. [Environmental Impact](#environmental-impact)  
-7. [Data and Files](#data-and-files)
+   - [FSPV Variant 5 (VC4)](#fspv-variant-5-vc4-specifications)
+5. [ Variants validation](#variants-validation)
+   -[Electrical Validation — Variant 1](#electrical-validation-variant-1)
+   -[Electrical Validation — Variant 2](#electrical-validation-variant-2)
+   -[Electrical Validation — Variant 3](#electrical-validation-variant-3)
+   -[Electrical Validation — Variant 4](#electrical-validation-variant-4) 
+   -[Electrical Validation — Variant 5](#electrical-validation-variant-5)
+7. [Environmental Impact](#environmental-impact)  
+8. [Data and Files](#data-and-files)
 
 
 ## Project-overview
@@ -288,3 +294,16 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.012                                     |
 | Orientation     | Tilt: 11° / Azimuth: 0°                   |
 
+
+
+## Variants validation
+###  Electrical Validation — Variant 1
+
+| Parameter             | Calculation / Logic                                      | Verdict       |
+|----------------------|----------------------------------------------------------|---------------|
+| String Vmp           | 25 × 42.74 = 1068.5 V → within MPPT (800–1300 V)         | ✅ Compliant  |
+| String Voc (cold)    | 25 × 49.90 × 1.0945 ≈ 1364 V → < Max DC (1500 V)         | ✅ Compliant  |
+| Startup Voltage       | Voc = 1247.5 V → > 840 V startup                         | ✅ Compliant  |
+| DC Current (MPP)     | 184 × 12.89 ≈ 2372 A → < Max DC (3508 A)                 | ✅ Compliant  |
+| DC Current (Isc warm)| 184 × 13.72 × 1.0216 ≈ 2578 A → < Max SC (4800 A)        | ✅ Compliant  |
+| DC/AC Ratio          | 2.53 MWp / 2.5 MVA ≈ 1.012                                | ✅ Compliant  |
