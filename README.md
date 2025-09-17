@@ -21,6 +21,12 @@
    - [Electrical Validation — Variant 3](#electrical-validation-variant-3-with-updated-mppt-range)
    - [Electrical Validation — Variant 4](#electrical-validation-variant-4-with-updated-mppt-range) 
    - [Electrical Validation — Variant 5](#electrical-validation-variant-5)
+6. [Performance Result](#performance-result)
+   - [FSPV Variant 1 — Electrical Output](#fspv-variant-1-electrical-output)
+   - [FSPV Variant 2 — Electrical Output](#fspv-variant-2-electrical-output)
+   - [FSPV Variant 3 — Electrical Output](#fspv-variant-3-electrical-output)
+   - [FSPV Variant 4 — Electrical Output](#fspv-variant-4-electrical-output)
+   - [FSPV Variant 5 — Electrical Output](#fspv-variant-5-electrical-output)
 7. [Environmental Impact](#environmental-impact)  
 8. [Data and Files](#data-and-files)
 
@@ -356,3 +362,64 @@ For the project, we have chosen five different variants of FSPV each with some d
 | DC Current (MPP)     | 184 × 12.89 ≈ 2372 A → < Max DC (3508 A)                 | ✅ Compliant  |
 | DC Current (Isc warm)| 184 × 13.72 × 1.0216 ≈ 2578 A → < Max SC (4800 A)        | ✅ Compliant  |
 | DC/AC Ratio          | 2.53 MWp / 2.5 MVA ≈ 1.012                                | ✅ Compliant  |
+
+## Performance results
+
+### FSPV Variant 1 Electrical Output
+
+| Parameter               | Value         |
+|------------------------|---------------|
+| Nominal PV Power       | 20.24 MWp     |
+| Annual Production      | 23,387 MWh/yr |
+| Specific Yield         | 1156 kWh/kWp/yr |
+| Performance Ratio      | 75.4%         |
+| Array Loss             | 0.84 kWh/kWp/day |
+| System Loss            | 0.20 kWh/kWp/day |
+
+###  FSPV Variant 2 Electrical Output
+
+| Parameter               | Value         |
+|------------------------|---------------|
+| Nominal PV Power       | 20.24 MWp     |
+| Annual Production      | 23,183 MWh/yr |
+| Specific Yield         | 1145 kWh/kWp/yr |
+| Performance Ratio      | 70.4%         |
+| Array Loss             | 1.14 kWh/kWp/day |
+| System Loss            | 0.10 kWh/kWp/day |
+
+###  FSPV Variant 3 Electrical Output
+
+| Parameter               | Value         |
+|------------------------|---------------|
+| Nominal PV Power       | 22.00 MWp     |
+| Annual Production      | 28,419 MWh/yr |
+| Specific Yield         | 1292 kWh/kWp/yr |
+| Performance Ratio      | 80.3%         |
+| Array Loss             | 0.77 kWh/kWp/day |
+| System Loss            | 0.11 kWh/kWp/day |
+
+### FSPV Variant 4 Electrical Output
+
+| Parameter               | Value         |
+|------------------------|---------------|
+| Nominal PV Power       | 22.00 MWp     |
+| Annual Production      | 27,325 MWh/yr |
+| Specific Yield         | 1242 kWh/kWp/yr |
+| Performance Ratio      | 76.5%         |
+| Array Loss             | 0.91 kWh/kWp/day |
+| System Loss            | 0.13 kWh/kWp/day |
+
+### FSPV Variant 5  Electrical Output
+
+| Parameter               | Value         |
+|------------------------|---------------|
+| Nominal PV Power       | 22.77 MWp     |
+| Annual Production      | 30,170 MWh/yr |
+| Specific Yield         | 1325 kWh/kWp/yr |
+| Performance Ratio      | 82.1%         |
+| Array Loss             | 0.73 kWh/kWp/day |
+| System Loss            | 0.06 kWh/kWp/day |
+
+
+
+
