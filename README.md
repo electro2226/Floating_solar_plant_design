@@ -1,4 +1,4 @@
-# Design and Performance analysis of Floating solar plant.
+# Design and Performance analysis of a Floating solar plant.
 
 ## 📑 Table of Contents
 
