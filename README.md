@@ -1,5 +1,9 @@
 # Design and Performance analysis of a Floating solar plant.
 
+> ⚠️ **Notice:** This repository is maintained by the owner and is read-only for public viewers.  
+> Direct edits to files (including `README.md`) are restricted.  
+> To suggest improvements or contribute, please open an issue or submit a pull request for review.
+
 ## 📑 Table of Contents
 
 1. [Project Overview](#project-overview)  
