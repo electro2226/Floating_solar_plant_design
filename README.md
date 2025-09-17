@@ -56,9 +56,23 @@ For our project, the design for the different plant layouts and the shadow analy
   <tr>
     <td align="center"><em>Figure 4: Meteorological data of the site </em></td>
     <td align="center"><em>Figure 2: Sun path of the Site</em></td>
-  </tr>
+  </tr>    
   </table>
 </div> 
 
+The different variants of the floating solar plants are made based on their design layout (with 1.1 MW array block and 2.5 MW array block) and their different orientations. The array block layout is made using "Sketchup" with the consideration of shadows according to the site location.
+
+<div align="center">
+  <table>
+  <tr>
+    <td><img src="images/meteo_data.png" height="300"/></td>
+    <td><img src="images/sun_path.png" height="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Figure 4: Meteorological data of the site </em></td>
+    <td align="center"><em>Figure 2: Sun path of the Site</em></td>
+  </tr>    
+  </table>
+</div> 
 
 
