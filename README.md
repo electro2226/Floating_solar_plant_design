@@ -1,17 +1,19 @@
 # Design and Performance analysis of Floating solar plant.
 
-## 📚 Table of Contents
-1. [Project Overview](#Project-overview)
-2. [Proposed Site](#Proposed-site)
-3. [Design Methodology](#Design-methodology)
-   -[Variant 1](#FSPV-Variant-1-(VC0)-Specifications)
-   -[Variant 2](#FSPV-Variant-2-(VC1)-Specifications)
-   -[Variant 3](#FSPV-Variant-3-(VC2)-Specifications)
-   -[Variant 4](#FSPV-Variant-4-(VC3)-Specifications)
-   -[Variant 5](#FSPV-Variant-5-(VC4)-Specifications)
-5. [Different variants](#Different-variants)
-6. [Environmental Impact](#environmental-impact)
-7. [Data & Files](#data--files)
+## 📑 Table of Contents
+
+1. [Project Overview](#project-overview)  
+2. [Proposed Site](#proposed-site)  
+3. [Design Methodology](#design-methodology)  
+   - [FSPV Variant 1 (VC0)](#fspv-variant-1-vc0-specifications)  
+   - [FSPV Variant 2 (VC1)](#fspv-variant-2-vc1-specifications)  
+   - [FSPV Variant 3 (VC2)](#fspv-variant-3-vc2-specifications)  
+   - [FSPV Variant 4 (VC3)](#fspv-variant-4-vc3-specifications)  
+   - [FSPV Variant 5 (VC4)](#fspv-variant-5-vc4-specifications)  
+4. [Different Variants](#different-variants)  
+5. [Environmental Impact](#environmental-impact)  
+6. [Data and Files](#data-and-files)
+
 
 ## Project-overview
 With the rising demand for clean energy and increasing pressure on land resources, Floating Solar Photovoltaic (FSPV) systems have emerged as a promising alternative to conventional land-based solar installations. India, with its vast network of reservoirs, lakes, and water bodies, has witnessed a surge in FSPV adoption, driven by government initiatives and the need to optimize space utilization in densely populated regions.
@@ -83,7 +85,7 @@ The different variants of the floating solar plants are realised based on their 
 ## Different-variants
 For the project, we have chosen five different variants of FSPV each with some different array layouts, orientations and power capacity output. Let's uncover it one by one:
 
-### FSPV-Variant-1-(VC0)-Specifications
+###  FSPV Variant 1 (VC0) Specifications
 
 ####  Module Specifications
 
@@ -122,7 +124,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Panel Ratio     | 1.012                           |
 | Orientation     | Fixed Tilt: 5° / Azimuth: 132.5° |
 
-###  FSPV-Variant-2-(VC1)-Specifications
+###  FSPV Variant 2 (VC1) Specifications
 
 ###  Module Specifications
 
@@ -163,7 +165,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.012                                     |
 | Orientation     | Tilt: 22° / Azimuth: 0°                   |
 
-##  FSPV-Variant-3-(VC2)-Specifications
+###  FSPV Variant 3 (VC2) Specifications
 
 ###  Module Specifications
 
@@ -204,7 +206,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | ~1.009                                    |
 | Orientation     | Tilt: 11° / Azimuth: 0°                   |
 
-##  FSPV-Variant-4-(VC3)-Specifications
+###  FSPV Variant 4 (VC3) Specifications
 
 ###  Module Specifications
 
@@ -245,7 +247,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.1                                       |
 | Orientation     | Tilt: 15° / Azimuth: 0°                   |
 
-##  FSPV-Variant-5-(VC4)-Specifications
+###  FSPV Variant 5 (VC4) Specifications
 
 ###  Module Specifications
 
