@@ -297,7 +297,8 @@ For the project, we have chosen five different variants of FSPV each with some d
 
 
 ## Variants validation
-###  Electrical Validation — Variant 1
+
+###  Electrical Validation Variant 1
 
 | Parameter             | Calculation / Logic                                      | Verdict       |
 |----------------------|----------------------------------------------------------|---------------|
