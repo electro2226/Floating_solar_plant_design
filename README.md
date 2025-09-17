@@ -60,7 +60,7 @@ For our project, the design for the different plant layouts and the shadow analy
   </table>
 </div> 
 
-The different variants of the floating solar plants are made based on their design layout (with 1.1 MW array block and 2.5 MW array block) and their different orientations. The array block layout is made using "Sketchup" with the consideration of shadows according to the site location.
+The different variants of the floating solar plants are realised based on their design layout (with 1.1 MW array block and 2.5 MW array block) and their different orientations. The array block layout is made using "Sketchup" with the consideration of shadows according to the site location.
 
 <div align="center">
   <table>
