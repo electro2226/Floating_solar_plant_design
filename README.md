@@ -50,7 +50,7 @@ For our project, the design for the different plant layouts and the shadow analy
 <div align="center">
   <table>
   <tr>
-    <td><img src="images/metoe_data.png" height="300"/></td>
+    <td><img src="images/meteo_data.png" height="300"/></td>
     <td><img src="images/sun_path.png" height="300"/></td>
   </tr>
   <tr>
