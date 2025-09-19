@@ -410,6 +410,13 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Array Loss             | 0.73 kWh/kWp/day |
 | System Loss            | 0.06 kWh/kWp/day |
 
+## Environmenta impact
 
+Floating Solar Photovoltaic (FSPV) systems offer a promising renewable energy solution with notable environmental benefits. By utilizing water surfaces instead of land, FSPVs help preserve terrestrial ecosystems and reduce land-use conflicts. They can also lower water evaporation rates and improve panel efficiency due to the cooling effect of water. While some can debate about the impacts on the marine ecosysytem by the installation on water bodies but researches till now had shown a very minimal disturbance results. Also being a renewable source of energy it offers the advantages of minimal contribution to the green house gases emmmisions. THe figure attached below is the simulation result of approximation on saved CO2 emmisions over a lifespan of 25 years by different variants of the project.
+
+<p align="center">
+  <img src="images/BCEI.7b2f0490-f8a9-4c14-a2eb-82de1170db83.png" alt="Saved Co2 emmisions" height="300"/>
+</p>
+<p align="center"><em>Figure 3: Saved CO2 emissions over 25 years lifespan.</em></p>
 
 
