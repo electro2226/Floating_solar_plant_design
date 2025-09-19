@@ -10,16 +10,11 @@
 2. [Proposed Site](#proposed-site)  
 3. [Design Methodology](#design-methodology)  
 4. [Different Variants](#different-variants)
-   - [FSPV Variant 1 (VC0)](#fspv-variant-1-vc0-specifications)
-   - [Electrical Validation — Variant 1](#electrical-validation-variant-1)  
+   - [FSPV Variant 1 (VC0)](#fspv-variant-1-vc0-specifications) 
    - [FSPV Variant 2 (VC1)](#fspv-variant-2-vc1-specifications)
-   - [Electrical Validation — Variant 2](#electrical-validation-variant-2)
    - [FSPV Variant 3 (VC2)](#fspv-variant-3-vc2-specifications)
-   - [Electrical Validation — Variant 3](#electrical-validation-variant-3-with-updated-mppt-range) 
    - [FSPV Variant 4 (VC3)](#fspv-variant-4-vc3-specifications)
-   - [Electrical Validation — Variant 4](#electrical-validation-variant-4-with-updated-mppt-range)  
    - [FSPV Variant 5 (VC4)](#fspv-variant-5-vc4-specification)
-   - [Electrical Validation — Variant 5](#electrical-validation-variant-5)
 5. [Performance Result](#performance-result)
    - [FSPV Variant 1 — Electrical Output](#fspv-variant-1-electrical-output)
    - [FSPV Variant 2 — Electrical Output](#fspv-variant-2-electrical-output)
@@ -139,7 +134,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Panel Ratio     | 1.012                           |
 | Orientation     | Fixed Tilt: 5° / Azimuth: 132.5° |
 
-###  Electrical Validation Variant 1
+####  Electrical Validation Variant 1
 
 | Parameter             | Calculation / Logic                                      | Verdict       |
 |----------------------|----------------------------------------------------------|---------------|
@@ -191,7 +186,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.012                                     |
 | Orientation     | Tilt: 22° / Azimuth: 0°                   |
 
-### Electrical Validation Variant 2
+#### Electrical Validation Variant 2
 
 | Parameter             | Calculation / Logic                                      | Verdict       |
 |----------------------|----------------------------------------------------------|---------------|
@@ -243,7 +238,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | ~1.009                                    |
 | Orientation     | Tilt: 11° / Azimuth: 0°                   |
 
-### Electrical Validation Variant 3 with Updated MPPT Range
+#### Electrical Validation Variant 3 with Updated MPPT Range
 
 | Parameter             | Calculation / Logic                                      | Verdict       |
 |----------------------|----------------------------------------------------------|---------------|
@@ -295,7 +290,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.1                                       |
 | Orientation     | Tilt: 15° / Azimuth: 0°                   |
 
-### Electrical Validation Variant 4 with Updated MPPT Range
+#### Electrical Validation Variant 4 with Updated MPPT Range
 
 | Parameter               | Calculation / Logic                                           | Verdict       |
 |------------------------|---------------------------------------------------------------|---------------|
