@@ -426,6 +426,6 @@ Floating Solar Photovoltaic (FSPV) systems offer a promising renewable energy so
 |---------------------------|-------------------------------------------|--------------------------------------------|--------------------------------------------------|
 | Produced Energy (Annual)  | ~22000 MWh/year                          | ~30000 MWh/year                    | ~157,680 MWh/year (PLF ~80%)                     |
 | Performance Ratio (PR)    | ~75–80%                                   | ~76–86%                                    | ~35–40% (thermal efficiency)                     |
-| Saved CO₂ Emission        | ~11,135 tons/year                         | ~13,600–15,000 tons/year                   | Emits ~142,000 tons/year                         |
+| Saved CO₂ Emission        | ~20,000 tons/year                         | ~13,600–15,000 tons/year                   | Emits ~142,000 tons/year                         |
 | Cost of Plant             | ₹80–90 crore          | ₹95–100 crore           | ₹270–300 crore                 |
 
