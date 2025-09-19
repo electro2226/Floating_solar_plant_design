@@ -139,6 +139,17 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Panel Ratio     | 1.012                           |
 | Orientation     | Fixed Tilt: 5° / Azimuth: 132.5° |
 
+###  Electrical Validation Variant 1
+
+| Parameter             | Calculation / Logic                                      | Verdict       |
+|----------------------|----------------------------------------------------------|---------------|
+| String Vmp           | 25 × 42.74 = 1068.5 V → within MPPT (800–1300 V)         | ✅ Compliant  |
+| String Voc (cold)    | 25 × 49.90 × 1.0945 ≈ 1364 V → < Max DC (1500 V)         | ✅ Compliant  |
+| Startup Voltage       | Voc = 1247.5 V → > 840 V startup                         | ✅ Compliant  |
+| DC Current (MPP)     | 184 × 12.89 ≈ 2372 A → < Max DC (3508 A)                 | ✅ Compliant  |
+| DC Current (Isc warm)| 184 × 13.72 × 1.0216 ≈ 2578 A → < Max SC (4800 A)        | ✅ Compliant  |
+| DC/AC Ratio          | 2.53 MWp / 2.5 MVA ≈ 1.012                                | ✅ Compliant  |
+
 ###  FSPV Variant 2 (VC1) Specifications
 
 ###  Module Specifications
@@ -179,6 +190,17 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Array Layout    | 23 groups of 8 strings × 25 modules (2.53 MW) |
 | Pnom Ratio      | 1.012                                     |
 | Orientation     | Tilt: 22° / Azimuth: 0°                   |
+
+### Electrical Validation Variant 2
+
+| Parameter             | Calculation / Logic                                      | Verdict       |
+|----------------------|----------------------------------------------------------|---------------|
+| String Vmp           | 25 × 42.74 = 1068.5 V → within MPPT (800–1300 V)         | ✅ Compliant  |
+| String Voc (cold)    | 25 × 49.90 × 1.0945 ≈ 1364 V → < Max DC (1500 V)         | ✅ Compliant  |
+| Startup Voltage       | Voc = 1247.5 V → > 840 V startup                         | ✅ Compliant  |
+| DC Current (MPP)     | 184 × 12.89 ≈ 2372 A → < Max DC (3508 A)                 | ✅ Compliant  |
+| DC Current (Isc warm)| 184 × 13.72 × 1.0216 ≈ 2578 A → < Max SC (4800 A)        | ✅ Compliant  |
+| DC/AC Ratio          | 2.53 MWp / 2.5 MVA ≈ 1.012                                | ✅ Compliant  |
 
 ###  FSPV Variant 3 (VC2) Specifications
 
@@ -221,6 +243,17 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | ~1.009                                    |
 | Orientation     | Tilt: 11° / Azimuth: 0°                   |
 
+### Electrical Validation Variant 3 with Updated MPPT Range
+
+| Parameter             | Calculation / Logic                                      | Verdict       |
+|----------------------|----------------------------------------------------------|---------------|
+| String Vmp           | 25 × 42.74 = 1068.5 V → within MPPT (875–1500 V)         | ✅ Compliant  |
+| String Voc (cold)    | 25 × 49.90 × 1.0945 ≈ 1364 V → < Max DC (1500 V)         | ✅ Compliant  |
+| Startup Voltage       | Voc = 1247.5 V → > 875 V startup                         | ✅ Compliant  |
+| DC Current (MPP)     | 80 × 12.89 ≈ 1031 A → < Max DC (1200 A)                  | ✅ Compliant  |
+| DC Current (Isc warm)| 80 × 13.72 × 1.0216 ≈ 1121 A → < Max SC (6400–7000 A)    | ✅ Compliant  |
+| DC/AC Ratio          | 1.1 MWp / 1.09 MVA ≈ 1.01                                 | ✅ Compliant  |
+
 ###  FSPV Variant 4 (VC3) Specifications
 
 ###  Module Specifications
@@ -262,6 +295,17 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Pnom Ratio      | 1.1                                       |
 | Orientation     | Tilt: 15° / Azimuth: 0°                   |
 
+### Electrical Validation Variant 4 with Updated MPPT Range
+
+| Parameter               | Calculation / Logic                                           | Verdict       |
+|------------------------|---------------------------------------------------------------|---------------|
+| String Vmp             | 25 × 42.74 = 1068.5 V → within MPPT (802–1500 V)             | ✅ Compliant  |
+| String Voc (cold)      | 25 × 49.90 × 1.0945 ≈ 1364 V → < Max DC (1500 V)             | ✅ Compliant  |
+| Startup Voltage        | Voc = 1247.5 V → > typical startup threshold                  | ✅ Compliant  |
+| DC Current (at MPP)    | 80 × 12.89 ≈ 1031 A → < Max DC (1200 A)                       | ✅ Compliant  |
+| DC Current (Isc warm)  | 80 × 13.72 × 1.0216 ≈ 1121 A → < Max SC (6.4–7 kA)            | ✅ Compliant  |
+| DC/AC Ratio            | (80 × 25 × 0.55) = 1.10 MWp / 1.0 MVA ≈ 1.10                  | ✅ Compliant  |
+
 ###  FSPV Variant 5 (VC4) Specifications
 
 ###  Module Specifications
@@ -302,54 +346,6 @@ For the project, we have chosen five different variants of FSPV each with some d
 | Array Layout    | 23 groups of 8 strings × 25 modules (2.53 MW) |
 | Pnom Ratio      | 1.012                                     |
 | Orientation     | Tilt: 11° / Azimuth: 0°                   |
-
-
-
-## Variants validation
-
-###  Electrical Validation Variant 1
-
-| Parameter             | Calculation / Logic                                      | Verdict       |
-|----------------------|----------------------------------------------------------|---------------|
-| String Vmp           | 25 × 42.74 = 1068.5 V → within MPPT (800–1300 V)         | ✅ Compliant  |
-| String Voc (cold)    | 25 × 49.90 × 1.0945 ≈ 1364 V → < Max DC (1500 V)         | ✅ Compliant  |
-| Startup Voltage       | Voc = 1247.5 V → > 840 V startup                         | ✅ Compliant  |
-| DC Current (MPP)     | 184 × 12.89 ≈ 2372 A → < Max DC (3508 A)                 | ✅ Compliant  |
-| DC Current (Isc warm)| 184 × 13.72 × 1.0216 ≈ 2578 A → < Max SC (4800 A)        | ✅ Compliant  |
-| DC/AC Ratio          | 2.53 MWp / 2.5 MVA ≈ 1.012                                | ✅ Compliant  |
-
-### Electrical Validation Variant 2
-
-| Parameter             | Calculation / Logic                                      | Verdict       |
-|----------------------|----------------------------------------------------------|---------------|
-| String Vmp           | 25 × 42.74 = 1068.5 V → within MPPT (800–1300 V)         | ✅ Compliant  |
-| String Voc (cold)    | 25 × 49.90 × 1.0945 ≈ 1364 V → < Max DC (1500 V)         | ✅ Compliant  |
-| Startup Voltage       | Voc = 1247.5 V → > 840 V startup                         | ✅ Compliant  |
-| DC Current (MPP)     | 184 × 12.89 ≈ 2372 A → < Max DC (3508 A)                 | ✅ Compliant  |
-| DC Current (Isc warm)| 184 × 13.72 × 1.0216 ≈ 2578 A → < Max SC (4800 A)        | ✅ Compliant  |
-| DC/AC Ratio          | 2.53 MWp / 2.5 MVA ≈ 1.012                                | ✅ Compliant  |
-
-### Electrical Validation Variant 3 with Updated MPPT Range
-
-| Parameter             | Calculation / Logic                                      | Verdict       |
-|----------------------|----------------------------------------------------------|---------------|
-| String Vmp           | 25 × 42.74 = 1068.5 V → within MPPT (875–1500 V)         | ✅ Compliant  |
-| String Voc (cold)    | 25 × 49.90 × 1.0945 ≈ 1364 V → < Max DC (1500 V)         | ✅ Compliant  |
-| Startup Voltage       | Voc = 1247.5 V → > 875 V startup                         | ✅ Compliant  |
-| DC Current (MPP)     | 80 × 12.89 ≈ 1031 A → < Max DC (1200 A)                  | ✅ Compliant  |
-| DC Current (Isc warm)| 80 × 13.72 × 1.0216 ≈ 1121 A → < Max SC (6400–7000 A)    | ✅ Compliant  |
-| DC/AC Ratio          | 1.1 MWp / 1.09 MVA ≈ 1.01                                 | ✅ Compliant  |
-
-### Electrical Validation Variant 4 with Updated MPPT Range
-
-| Parameter               | Calculation / Logic                                           | Verdict       |
-|------------------------|---------------------------------------------------------------|---------------|
-| String Vmp             | 25 × 42.74 = 1068.5 V → within MPPT (802–1500 V)             | ✅ Compliant  |
-| String Voc (cold)      | 25 × 49.90 × 1.0945 ≈ 1364 V → < Max DC (1500 V)             | ✅ Compliant  |
-| Startup Voltage        | Voc = 1247.5 V → > typical startup threshold                  | ✅ Compliant  |
-| DC Current (at MPP)    | 80 × 12.89 ≈ 1031 A → < Max DC (1200 A)                       | ✅ Compliant  |
-| DC Current (Isc warm)  | 80 × 13.72 × 1.0216 ≈ 1121 A → < Max SC (6.4–7 kA)            | ✅ Compliant  |
-| DC/AC Ratio            | (80 × 25 × 0.55) = 1.10 MWp / 1.0 MVA ≈ 1.10                  | ✅ Compliant  |
 
 ### Electrical Validation Variant 5
 
