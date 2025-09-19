@@ -22,7 +22,8 @@
    - [FSPV Variant 4 — Electrical Output](#fspv-variant-4-electrical-output)
    - [FSPV Variant 5 — Electrical Output](#fspv-variant-5-electrical-output)
 7. [Environmental Impact](#environmental-impact)  
-8. [Data and Files](#data-and-files)
+8. [Comparative Analysis](#comaparative-analysis)
+9. [Conclusion](#conclusion)
 
 
 ## Project-overview
@@ -419,4 +420,12 @@ Floating Solar Photovoltaic (FSPV) systems offer a promising renewable energy so
 </p>
 <p align="center"><em>Figure 3: Saved CO2 emissions over 25 years lifespan.</em></p>
 
+## Comparative Analysis 
+
+| **Parameter**              | **FSPV (20 MW)**                          | **Land-Based Solar PV (20 MW)**           | **Thermal Plant (22.5 MW)**                     |
+|---------------------------|-------------------------------------------|--------------------------------------------|--------------------------------------------------|
+| Produced Energy (Annual)  | ~22000 MWh/year                          | ~30000 MWh/year                    | ~157,680 MWh/year (PLF ~80%)                     |
+| Performance Ratio (PR)    | ~75–80%                                   | ~76–86%                                    | ~35–40% (thermal efficiency)                     |
+| Saved CO₂ Emission        | ~11,135 tons/year                         | ~13,600–15,000 tons/year                   | Emits ~142,000 tons/year                         |
+| Cost of Plant             | ₹80–90 crore          | ₹95–100 crore           | ₹270–300 crore                 |
 
