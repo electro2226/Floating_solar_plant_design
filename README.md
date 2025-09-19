@@ -22,7 +22,7 @@
    - [FSPV Variant 4 — Electrical Output](#fspv-variant-4-electrical-output)
    - [FSPV Variant 5 — Electrical Output](#fspv-variant-5-electrical-output)
 7. [Environmental Impact](#environmental-impact)  
-8. [Comparative Analysis](#comaparative-analysis)
+8. [Comparative Analysis](#comparative-analysis)
 9. [Conclusion](#conclusion)
 
 
