@@ -429,3 +429,7 @@ Floating Solar Photovoltaic (FSPV) systems offer a promising renewable energy so
 | Saved CO₂ Emission        | ~20,000 tons/year                         | ~13,600–15,000 tons/year                   | Emits ~142,000 tons/year                         |
 | Cost of Plant             | ₹80–90 crore          | ₹95–100 crore           | ₹270–300 crore                 |
 
+
+## Conclusion 
+
+The comparative study of 20–22.5 MW power plants reveals a clear trade-off between energy output, environmental impact, and capital cost. While thermal power plants deliver the highest annual energy generation, they come with steep carbon emissions and significantly higher installation costs. Land-based solar PV systems strike a balance with moderate energy output, strong performance ratios, and substantial CO₂ savings at a competitive cost. Floating Solar PV (FSPV), though slightly more expensive per MW, offers unique advantages in land conservation, water evaporation reduction, and environmental sustainability—making it a strategic choice for regions with abundant water bodies and limited land availability. Ultimately, the selection of technology should align with site conditions, policy goals, and long-term sustainability priorities.
