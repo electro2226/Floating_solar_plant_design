@@ -115,7 +115,7 @@ For the project, we have chosen five different variants of FSPV each with some d
 
 | Parameter                  | Value                  |
 |---------------------------|------------------------|
-| Inverter                  | Sungrow SG250HX-HV20   |
+| Inverter                  | Sungrow SG2500-HV20   |
 | AC Output Nominal Power   | 2500 kVA               |
 | AC Output Voltage         | 550 V                  |
 | Max. DC Input Voltage     | 1500 V                 |
